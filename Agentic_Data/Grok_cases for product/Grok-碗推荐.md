@@ -1,10 +1,3 @@
-# 碗推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 20:16
-**Updated:** 5/29/2025 20:17
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要买家里吃饭用的碗，有什么推荐的吗
 
