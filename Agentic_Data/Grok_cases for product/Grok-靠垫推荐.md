@@ -1,10 +1,3 @@
-# 靠垫推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 17:18  
-**Updated:** 5/29/2025 17:19  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我在深圳，需要购买一个靠垫，有什么推荐的吗？
 
