@@ -1,10 +1,3 @@
-# 窗帘推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 17:33 
-**Updated:** 5/29/2025 17:34 
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我在深圳，需要购买家用的窗帘，有什么推荐的吗
 
