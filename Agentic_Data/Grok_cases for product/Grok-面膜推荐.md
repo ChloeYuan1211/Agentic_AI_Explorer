@@ -1,10 +1,3 @@
-# 面膜推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:02  
-**Updated:** 5/29/2025 19:04  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我在深圳，需要买面膜，有没有推荐的
 
