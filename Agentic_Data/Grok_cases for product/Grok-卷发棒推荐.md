@@ -1,10 +1,3 @@
-# 卷发棒推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:23  
-**Updated:** 5/29/2025 19:24  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买一个卷发棒，有什么推荐的吗？
 
