@@ -1,15 +1,8 @@
-# 电子笔记本推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/31/2025 09:10 
-**Updated:** 5/31/2025 09:11  
-**Exported:** 5/31/2025 19:54  
-
 ## Prompt:
-我需要购买一个轻薄笔记本，预算是5000-8000，集成显卡即可，内存有32GB，存储要512GB或1T
+我需要购买一个轻薄笔记本电脑，预算是5000-8000，集成显卡即可，内存有32GB，存储要512GB或1T以上
 
 ## Response:
-以下是一些符合你要求的轻薄笔记本推荐(https://www.toutiao.com/article/7509844790515728896/?upstream_biz=doubao&source=m_redirect)：
+以下是一些符合你要求的轻薄笔记本电脑推荐(https://www.toutiao.com/article/7509844790515728896/?upstream_biz=doubao&source=m_redirect)：
 - **联想小新Pro14 GT锐龙版**：
     - **价格**：原价4999元，部分地区领补贴至高立减2000元。
     - **配置**：搭载锐龙AI 7 H35处理器，Radeon 860M核显，性能强劲，可中低画质运行大型游戏。14英寸2.8K分辨率OLED屏幕，支持120Hz高刷新率，色彩表现优秀。84Wh大容量电池，续航约12.5小时，机身重1.46kg，厚15.9mm。
