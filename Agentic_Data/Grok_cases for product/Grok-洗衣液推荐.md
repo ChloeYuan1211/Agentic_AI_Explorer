@@ -1,10 +1,3 @@
-# 洗衣液推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:30  
-**Updated:** 5/29/2025 19:31  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买一桶家用洗衣液，有什么推荐的吗？
 
