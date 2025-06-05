@@ -1,10 +1,3 @@
-# 扫帚推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:39  
-**Updated:** 5/29/2025 19:41  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买一把扫帚在家用，有什么推荐的吗？
 
