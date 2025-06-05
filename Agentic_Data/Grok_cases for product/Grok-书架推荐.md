@@ -1,10 +1,3 @@
-# 书架推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 18:12 
-**Updated:** 5/29/2025 18:14  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买放置在书房中的书架，有什么推荐的吗
 
