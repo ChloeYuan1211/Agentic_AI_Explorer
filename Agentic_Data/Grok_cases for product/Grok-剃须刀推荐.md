@@ -1,10 +1,3 @@
-# 剃须刀推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:09  
-**Updated:** 5/29/2025 19:10  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我要购买一个剃须刀，有什么推荐的吗
 
