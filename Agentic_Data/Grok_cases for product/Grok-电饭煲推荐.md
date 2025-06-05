@@ -1,10 +1,3 @@
-# 电饭煲推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:52
-**Updated:** 5/29/2025 19:53
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买一个电饭煲，有什么推荐的吗？
 
