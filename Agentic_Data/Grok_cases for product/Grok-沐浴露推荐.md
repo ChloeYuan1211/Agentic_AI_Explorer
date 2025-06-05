@@ -1,10 +1,3 @@
-# 沐浴露推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 19:15  
-**Updated:** 5/29/2025 19:16  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我在深圳，需要买洗澡所用的沐浴露，有没有推荐的
 
