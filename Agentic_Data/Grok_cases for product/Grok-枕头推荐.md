@@ -1,10 +1,3 @@
-# 枕头推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 16:54  
-**Updated:** 5/29/2025 16:55  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我在深圳，需要购买枕头，有什么推荐的吗？
 
