@@ -1,10 +1,3 @@
-# 早餐机推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/31/2025 08:42  
-**Updated:** 5/31/2025 08:43  
-**Exported:** 5/31/2025 19:54  
-
 ## Prompt:
 我需要购买一个有煎蛋、烤面包片功能的早餐机，价格在50-150元左右
 
