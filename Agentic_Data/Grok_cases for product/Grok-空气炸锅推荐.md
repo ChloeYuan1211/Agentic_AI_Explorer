@@ -1,10 +1,3 @@
-# 空气炸锅推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 20:08
-**Updated:** 5/29/2025 20:09
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我需要购买一个空气炸锅，有什么推荐的吗？
 
