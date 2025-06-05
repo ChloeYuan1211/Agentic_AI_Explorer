@@ -1,10 +1,3 @@
-# 榨汁机推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/31/2025 08:35  
-**Updated:** 5/31/2025 08:36  
-**Exported:** 5/31/2025 19:54  
-
 ## Prompt:
 我要购买一个保鲜盒，需要食品级材质，要100~500ml，便携式的、可以微波炉加热
 
