@@ -1,10 +1,3 @@
-# 吹风机推荐
-
-**User:** Anonymous (contact@noesis-ai.com)  
-**Created:** 5/29/2025 18:27  
-**Updated:** 5/29/2025 18:28  
-**Exported:** 5/29/2025 21:48  
-
 ## Prompt:
 我要购买一个吹风机，有什么推荐的吗
 
